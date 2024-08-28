@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="C:\Users\ADMIN\Desktop\PortfolioProject\web-dev-projects\personal-portfolio">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="[C:\Users\ADMIN\Desktop\PortfolioProject\web-dev-projects\personal-portfolio](https://github.com/TejuGowda7272/personal-portfolio/blob/master/Portfolio.png)">
 
 Built using:
 
